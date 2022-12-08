@@ -5,6 +5,8 @@
     ```
     uvicorn main:app --reload
     ```
-  ![](../../Desktop/Screen Shot 2022-12-08 at 9.57.02 PM.png)![](../../Desktop/Screen Shot 2022-12-08 at 9.56.27 PM.png)
-  - 경로 / 및 /items/{item_id}에서 HTTP 요청 받기.
+    - <img width="651" alt="Screen Shot 2022-12-08 at 9 57 02 PM" src="https://user-images.githubusercontent.com/96538554/206456416-d3d37b02-5adf-4231-9b04-fe162a0aa0d7.png">
+
+    
+    
     - 이떄 HTTP는 무엇일까?
